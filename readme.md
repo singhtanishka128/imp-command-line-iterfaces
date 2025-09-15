@@ -112,8 +112,8 @@ alternate ->  windows : cmd.exe or install wsl or git bash
 
 
 
-### 7. `vi`: Vim Editor
-    $ vi index.txt
+### 7. `vi`: Vim Editor ~ lets you create and edit newfile 
+    $ vi index.txt 
 
     Press `i` for insert mode and write anything in your file
 
